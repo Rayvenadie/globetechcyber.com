@@ -1,0 +1,54 @@
+.subtitle {
+    font-family: Lato;
+    font-size: 16px;
+    color: rgb(245, 123, 239);
+    text-align: center;
+    
+}
+
+#testimonialframe {
+    width: 600px;
+    border: none;
+    height: 100%;
+}
+
+.card {
+    border-radius: .7rem;
+  }
+
+.header-img {
+    background-image: url("assets/images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mycard {
+    box-shadow: 5px 5px 5px rgb(202, 202, 202);
+    border: 2px solid rgb(211, 211, 211);
+    border-radius: 35px;
+    color: rgb(71, 71, 71);
+  }
+   .monthead {
+    font-family: montserrat;
+    font-weight: bold;
+   }
+   .topmar {
+    margin-top: 50px; 
+   }
+   .botmar {
+    margin-bottom: 30px;
+   }
+
+   .neonborder {
+    max-width: 250px;
+    padding: 1rem;
+    color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        red, 
+        rgba(0, 0, 0, 0)
+      ) 1 100%;
+  }
